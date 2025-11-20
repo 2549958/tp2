@@ -44,5 +44,6 @@
 ## Carte mentale
 ![carte-mentale](https://github.com/user-attachments/assets/650976b7-8421-4a54-a0ed-c8e1eb1f4558)
 
-## Flowchart
+## Diagramme de flux
+![diagramme-de-flux](https://github.com/user-attachments/assets/7f8c8988-63f2-480e-84e7-11639066871d)
 
